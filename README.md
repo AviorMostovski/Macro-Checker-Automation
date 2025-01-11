@@ -1,4 +1,4 @@
-# Macro-Checker-Automation
+# Macro-Checker-Automation [Malwaps]
 
 ![1](https://github.com/user-attachments/assets/5ea445f4-60f1-4c9d-885c-53c75414aacc)
 
